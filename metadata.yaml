@@ -1,5 +1,8 @@
 _repo: Manual-of-the-apiary_68157
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68157-h/images/cover.png
 creator:
   author:
     agent_name: Cook, Albert John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54633
     wikipedia: https://en.wikipedia.org/wiki/Albert_John_Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68157#Manual-of-the-apiary
 gutenberg_issued: '2022-05-23'
 identifiers:
   gutenberg: '68157'
